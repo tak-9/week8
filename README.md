@@ -1,11 +1,13 @@
-# Protofolio
+# Portofolio
 
 ## Description 
 
-This is a protofolio for the week8 with updated protofolio. 
+This is a portofolio for the week8 with updated protofolio. 
+The webpage is available here.
+https://tak-9.github.io/week8
 
 
-<img src="screencapture.png" width="200px">
+<img src="screencapture.png" width="600px">
 
 
 ## Credits
