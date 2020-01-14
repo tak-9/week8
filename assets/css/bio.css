@@ -108,6 +108,16 @@ a {
     text-align: center;
 }
 
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  }
+
+.card-img-top:hover {
+    -webkit-filter: brightness(0.60);
+    filter: brightness(0.60);
+}
+
 footer {
     position: fixed;
     background: #666666;
