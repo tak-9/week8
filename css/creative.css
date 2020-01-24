@@ -9734,3 +9734,11 @@ header.masthead h1 {
 #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
 }
+
+.icon {
+  color: #343A40;
+}
+
+.icon:hover {
+  color: #563D7C;
+}
